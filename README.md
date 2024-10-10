@@ -10,6 +10,11 @@ I used [Setlist.fm's API](https://api.setlist.fm/docs/1.0/index.html) to retriev
 
 ### 🎵 Spotify API
 
+In order to obtain the genre data, I used the <b>Spotify Web API</b> for further exploration. The process involved three main steps, outlined below with reference links:
+
+- <b>Step 1:</b> [Get Spotify Client credentials](https://developer.spotify.com/documentation/web-api/concepts/apps)
+- <b>Step 2:</b> [Request an access token through Client Credentials Flow](https://developer.spotify.com/documentation/web-api/tutorials/client-credentials-flow)
+- <b>Step 3:</b> [Make requests to Spotify Web API](https://developer.spotify.com/documentation/web-api/concepts/api-calls)
 
 ### 🎵 Billboard Top 100
 
