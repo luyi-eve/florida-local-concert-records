@@ -1,6 +1,6 @@
 # Tampa Bay’s most common concert acts: Here’s what the data show
 
-- Read the full story [here](https://www.tampabay.com/life-culture/music/2024/09/23/tampa-bay-st-petersburg-concerts-most/) 🎵🎸🎹 and find me at [here](https://www.tampabay.com/author/eve-lu/) 🐝✨.
+- Read the full story [here](https://www.tampabay.com/life-culture/music/2024/09/23/tampa-bay-st-petersburg-concerts-most/) 🎵🎸🎹
 - For this story, I sifted through over 68,000 Florida concert records using setlist.fm and Spotify APIs, manually verified artist matches, and cross-referenced with Billboard Top 100 data for analysis, graphics, and reporting, pinpointing major artists performing in Tampa Bay.
 
 
@@ -38,10 +38,17 @@ For the analysis, I delved into the questions outlined below, based on the datas
 - In Tampa Bay, which genre has seen the most top-100 artist performances at each venue?
 - In Tampa Bay, which were the highest-ranked artists at each of those venues each year?
 
-Not all results are displayed or discussed in the story because not every show is recorded on setlist.fm. As a result, some analyses based on the questions had to be excluded from the story.
+Not all results are displayed or discussed in the story because not every show is recorded on setlist.fm. Therefore, some analyses based on the questions had to be excluded from the story.
 
 ## Data Source
 
 - [Setlist.fm](https://www.setlist.fm)
 - [Spotify](https://developer.spotify.com/documentation/web-api/concepts/api-calls)
 - [Billboard Year-end Charts Top 100 Artists](https://www.billboard.com/charts/year-end/top-artists/)
+
+## Come and Say Hiiii
+
+- You can always find me [here](https://luyi-eve.github.io) 🐝✨ 
+- Check out my other work with [Tampa Bay Times](https://www.tampabay.com/author/eve-lu/)🍀
+
+
