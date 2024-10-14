@@ -23,8 +23,6 @@ Since Setlist.fm doesn't provide specific county data for each city, I used the 
 
 To retrieve data on the top 100 artists annually from Billboard's "[Year-end Charts Top Artists](https://www.billboard.com/charts/year-end/top-artists/)" for the years 2014 to 2023, I used the [billboard.py](https://github.com/guoguo12/billboard-charts?tab=readme-ov-file) to scrape the data.
 
-In the final analysis, the complete master data table, including the Billboard data, is available in the [published story](https://www.tampabay.com/life-culture/music/2024/09/23/tampa-bay-st-petersburg-concerts-most/).
-
 ## Data Analysis
 
 For the analysis, I delved into the questions outlined below, based on the dataset I have constructed:
@@ -36,7 +34,8 @@ For the analysis, I delved into the questions outlined below, based on the datas
 - In Tampa Bay, which genre has seen the most top-100 artist performances at each venue?
 - In Tampa Bay, which were the highest-ranked artists at each of those venues each year?
 
-Not all results are displayed or discussed in the story because not every show is recorded on setlist.fm, so some analyses based on the questions had to be excluded from the story.
+Not all results are displayed or discussed in the story because not every show is recorded on setlist.fm, so some analyses based on the questions had to be excluded from the story. <b>Note</b>: The complete master data table, including the Billboard data, is available in the [published story](https://www.tampabay.com/life-culture/music/2024/09/23/tampa-bay-st-petersburg-concerts-most/).
+
 
 ## Data Source
 
