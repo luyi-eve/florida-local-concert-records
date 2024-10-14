@@ -1,7 +1,7 @@
 # Tampa Bay’s most common concert acts: Here’s what the data show
 
 - Read the full story [here](https://www.tampabay.com/life-culture/music/2024/09/23/tampa-bay-st-petersburg-concerts-most/) 🎵🎸🎹
-- For this story, I sifted through over 68,000 Florida concert records using setlist.fm and Spotify APIs, manually verified artist matches, and cross-referenced with Billboard Top 100 data for analysis, graphics, and reporting, pinpointing major artists performing in Tampa Bay.
+- For the story, I sifted through over 68,000 Florida concert records using setlist.fm and Spotify APIs, manually verified artist matches, and cross-referenced with Billboard Top 100 data for analysis, graphics, and reporting, pinpointing major artists performing in Tampa Bay.
 
 
 ## Data Collection & Cleaning
